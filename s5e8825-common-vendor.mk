@@ -95,8 +95,6 @@ PRODUCT_PACKAGES += \
     libsehbluetooth_audio_session_aidl \
     libsemnativecarrierfeature \
     libsensorlistener \
-    libskeymint10device \
-    libskeymint_cli \
     libspatializerparamstorage \
     libspeakercalibration \
     libswcnr \
@@ -131,7 +129,6 @@ PRODUCT_PACKAGES += \
     vendor.samsung.hardware.radio_manifest_2_34.xml \
     vendor.samsung.hardware.sehradio_manifest_2_34.xml \
     android.hardware.drm-service.widevine \
-    android.hardware.security.keymint-service.samsung \
     gps \
     gpsd \
     rild \
